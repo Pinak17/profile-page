@@ -1,3 +1,3 @@
 # profile-page
-Resume page.
+Resume website.
 Under construction :-)
